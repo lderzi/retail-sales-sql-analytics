@@ -164,6 +164,6 @@ Possible next improvements for this project include:
 
 ## Author
 
-Created by **[Your Name]**
+Created by **Luã Derzi**
 
 This project is part of my learning journey in Data Analytics and SQL portfolio development.
