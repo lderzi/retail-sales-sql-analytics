@@ -89,6 +89,21 @@ Analysis of top-performing items by year.
 
 ---
 
+## Project Snapshots
+
+Below are a few examples of the SQL workflow, analytical views, and output generated during the project.
+
+### BigQuery views created
+![BigQuery views](images/bigquery_views.png)
+
+### Data quality flag logic
+![Data quality logic](images/data_quality_flags_query.png)
+
+### Example of analysis output
+![Analysis output](images/top5_items_result.png)
+
+---
+
 ## Analytical Focus
 
 This project was designed to go beyond isolated SQL queries.
@@ -149,6 +164,6 @@ Possible next improvements for this project include:
 
 ## Author
 
-Created by **Luã Derzi**
+Created by **[Your Name]**
 
 This project is part of my learning journey in Data Analytics and SQL portfolio development.
